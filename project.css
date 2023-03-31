@@ -1,0 +1,73 @@
+h4{
+    text-align: center;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: justify;
+}
+h2{
+    padding: 50px;
+    text-align: center;
+    font-size: 3.0em;
+}
+.md-6{
+    padding: 30%;
+    max-width: 100px;
+}
+button{
+    text-align: center;
+    background-color: orangered;
+    font-size: 40px;
+    text-decoration: none;
+    text-decoration-line: none;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    text-align: justify;
+    padding-left: 80px;
+    
+}
+ h1{
+    text-align: center;
+    padding-bottom: 50px;
+    text-align: justify;
+    padding-left: 80px;
+    margin-bottom: 50px;
+    position: relative;
+    min-height: 150px;
+    bottom: -70px ;
+
+    
+}
+h2{
+    text-align: center;
+    padding-bottom: 50px;
+    text-align: justify;
+    padding-left: 80px;
+    margin-bottom: 50px;
+    position: relative;
+    min-height: 150px;
+    bottom: -110px ;
+
+    
+}
+.bg-img {
+    
+    background-image: url("asset/f9.jpg");
+    min-height: 900px;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+  }
+  form{
+    color:white ;
+     background-color:#000000; 
+     margin: 40px;
+     padding: 50px;        
+  }
+ a{
+    text-decoration: none;
+ }
+  
+  
